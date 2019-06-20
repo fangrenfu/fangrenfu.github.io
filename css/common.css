@@ -13,7 +13,6 @@
 }
 #logoimage{
     width:70%;
-    min-width:1000px;
     margin: 0 auto;
 }
 #logoimage img{
@@ -28,7 +27,6 @@
 }
 #nav ul{
     width:70%;
-    min-width:1000px;
     margin:0 auto;
 }
 #nav ul li{
@@ -66,7 +64,6 @@
 }
 #content{
     width:70%;
-    min-width:1000px;
     margin:0 auto;
 
 }
@@ -84,7 +81,6 @@
 .tip{
     padding-top: 20px;
     text-indent: 2em;
-    height:40px;
     line-height: 40px;
     font-size:14pt;
 }
@@ -136,11 +132,11 @@
 }
 .item_cover{
     width:40%;
-    min-width:450px;
 }
 .item_ico{
     width:200px;
     text-align: center;
+
 }
 .item_ico img{
     width:120px;
@@ -188,7 +184,6 @@ a.hot:hover{
     padding-top: 15px;
     width:70%;
     margin:0 auto;
-    min-width:1000px;
     color:#fff;
     text-align: center;
     font-size: 16px;
