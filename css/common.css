@@ -100,7 +100,8 @@
     border-bottom: 1px #E3E3E3 solid;
 }
 .item{
-    padding: 40px 0;
+    clear:both;
+    padding:40px 0;
     width:100%;
 }
 .item_info,.item_tip,.item_ico,.item_cover{
@@ -142,7 +143,7 @@
     width:120px;
 }
 .item_cover img{
-    width:300px;
+    width:350px;
 }
 .link a{
     display:block;
